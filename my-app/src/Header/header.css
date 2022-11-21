@@ -1,0 +1,51 @@
+.div-container-header{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+
+img{
+    width: 180px;
+
+}
+
+.title-header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.content-cart{
+    border: 1px solid whitesmoke;
+    width: 200px;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.d-flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+i{
+    float: left;
+}
+
+.span-header-panier{
+    display: flex;
+    align-items: center;
+}
+
+
+.span-header-panier > div > p {
+    margin: 0;
+    padding: 5px;
+    border: 1px solid white;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+
+}

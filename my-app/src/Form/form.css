@@ -1,0 +1,37 @@
+.div-form{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    padding: 30px 100px;
+    border: 1px solid rgb(237, 237, 233);
+    height: 40vh;
+    border-radius: 5px;
+    box-shadow: rgba(148, 148, 148, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+
+form{
+    min-height: 100vh;
+    /* border: 1px solid whitesmoke; */
+    border-radius: 4px;
+    width: 50%;
+    display: flex;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+   
+}
+
+.div-input{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-btn{
+    background-color: white;
+    color: #282c34;
+    border-radius: 5px;
+}
+

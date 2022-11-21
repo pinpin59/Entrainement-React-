@@ -1,0 +1,61 @@
+{
+    "menu": [{
+        "id":1,
+        "name": "Veggie Burger",
+        "ingredients":[
+            "Salade",
+            "Tomate",
+            "Oignon"
+        ],
+        "img":"https://www.batistinburger.fr/public/img/medium/Classique01jpg_61b36b6b9db45.jpg"
+    },{
+        "id":2,
+        "name": "Steak Burger",
+        "ingredients":[
+            "Salade",
+            "Tomate",
+            "Oignon"
+        ],
+        "img":"https://www.batistinburger.fr/public/img/medium/Batistin1jpg_6192268edd74c.jpg"
+    },
+    {
+        "id":3,
+        "name": "Fish Burger",
+        "ingredients":[
+            "Salade",
+            "Tomate",
+            "Oignon"
+        ],
+        "img":"https://www.batistinburger.fr/public/img/medium/Vegetarien1jpg619226f36f82bjpg_621f960a1fc92.jpg"
+    },
+    {
+        "id":4,
+        "name": "Burger Steak Raclette",
+        "ingredients":[
+            "Salade",
+            "Tomate",
+            "Oignon"
+        ],
+        "img":"https://www.batistinburger.fr/public/img/medium/Alpin1jpg619227ae2090cjpg_62a7190bb00ed.jpg"
+    },
+    {
+        "id":5,
+        "name": "Chicken Burger",
+        "ingredients":[
+            "Salade",
+            "Tomate",
+            "Oignon"
+        ],
+        "img":"https://www.batistinburger.fr/public/img/medium/Alpin1jpg619227ae2090cjpg_62a7190bb00ed.jpg"
+    },
+    {
+        "id":5,
+        "name": "Frites",
+        "ingredients":[
+            "Petite",
+            "Moyenne",
+            "Grande"
+        ],
+        "img":"https://d1ralsognjng37.cloudfront.net/fef4834c-b624-4c40-8ecf-9ae52b088ae0.jpeg"
+    }]
+}
